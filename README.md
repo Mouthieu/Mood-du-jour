@@ -1,6 +1,6 @@
-# flutter_application_1
+# Mood Du Jour
 
-A new Flutter project.
+Application mobile dans le but de calculer le mood du jour durant le daily
 
 ## Getting Started
 
